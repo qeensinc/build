@@ -1,0 +1,38 @@
+<svg width="300" height="300" xmlns="http://www.w3.org/2000/svg">
+    <g id="Layer_1">
+        <title>Qeens</title>
+        <ellipse stroke-width="10" ry="120" rx="120" id="svg_1" cy="150" cx="150" stroke="#48bcd1" fill="#15202c"/>
+        <line stroke="#48bcd1" stroke-width="5" stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_2"
+              y2="56.5" x2="148" y1="32.5" x1="121" fill="none"/>
+        <ellipse stroke="#48bcd1" stroke-width="5" ry="15" rx="15" id="svg_3" cy="66.5" cx="156.5" fill="#fff"/>
+        <line id="svg_9" y2="83.5" x2="110" y1="53.5" x1="77" stroke-width="5" stroke="#48bcd1" fill="none"/>
+        <line stroke="#48bcd1" id="svg_10" y2="81.5" x2="142" y1="82.5" x1="109" stroke-width="5" fill="none"/>
+        <line stroke="#48bcd1" stroke-width="5" stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_11"
+              y2="104.5" x2="167" y1="80.5" x1="140" fill="none"/>
+        <ellipse stroke="#48bcd1" stroke-width="5" ry="15" rx="15" id="svg_12" cy="172.5" cx="103.5" fill="#fff"/>
+        <line stroke="url(#svg_30)" id="svg_13" y2="177.5" x2="196" y1="62.5" x1="70" stroke-width="5" fill="none"/>
+        <ellipse stroke="#48bcd1" stroke-width="5" ry="15" rx="15" id="svg_14" cy="188.5" cx="208.5" fill="#fff"/>
+        <line stroke="#48bcd1" stroke-width="5" stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_15"
+              y2="92.5" x2="91" y1="68.5" x1="64" fill="none"/>
+        <line stroke="#48bcd1" id="svg_16" y2="91.5" x2="90" y1="127.5" x1="94" stroke-width="5" fill="none"/>
+        <line stroke="url(#svg_31)" id="svg_17" y2="175.5" x2="150" y1="125.5" x1="93" stroke-width="5" fill="none"/>
+        <ellipse stroke="#48bcd1" stroke-width="5" ry="15" rx="15" id="svg_18" cy="116.5" cx="177.5" fill="#fff"/>
+        <line stroke="#48bcd1" id="svg_19" y2="92.5" x2="59" y1="85.5" x1="51" stroke-width="5" fill="none"/>
+        <line stroke="#48bcd1" id="svg_20" y2="182.5" x2="64" y1="91.5" x1="58" stroke-width="5" fill="none"/>
+        <line stroke="#48bcd1" id="svg_21" y2="162.5" x2="93" y1="114.5" x1="37" stroke-width="5" fill="none"/>
+        <ellipse stroke="#48bcd1" stroke-width="5" ry="15" rx="15" id="svg_22" cy="184.5" cx="160.5" fill="#fff"/>
+        <line stroke="#48bcd1" id="svg_23" y2="204.5" x2="95" y1="180.5" x1="63" stroke-width="5" fill="none"/>
+        <ellipse stroke="#48bcd1" stroke-width="5" ry="15" rx="15" id="svg_24" cy="212.5" cx="107.5" fill="#fff"/>
+        <path id="svg_37" d="m120,242.5" opacity="NaN" stroke-width="10" stroke="#48bcd1" fill="#fff"/>
+    </g>
+    <defs>
+        <linearGradient y2="0.13361" x2="0.91016" y1="0" x1="0" id="svg_30">
+            <stop offset="0.53125" stop-color="#48bcd1"/>
+            <stop offset="1" stop-color="#b7432e"/>
+        </linearGradient>
+        <linearGradient y2="0.26642" x2="0.86328" y1="0" x1="0" id="svg_31">
+            <stop offset="0" stop-color="#48bcd1"/>
+            <stop offset="1" stop-color="#b7432e"/>
+        </linearGradient>
+    </defs>
+</svg>
